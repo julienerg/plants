@@ -1,4 +1,4 @@
-# echeveria elegans
+# monstera deliciosa
 
 ![plant](../img/monstera-deliciosa/monstera.JPG)
 
