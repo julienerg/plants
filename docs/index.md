@@ -1,5 +1,7 @@
 # plants
 
+🌱🌿🌵🌷
+
 ## home
 
 ### bedroom
@@ -39,3 +41,8 @@
 ## work
 - Snake plant ("Team Dog")
 - ZZ plant ("Izzy")
+
+---
+
+## coming soon
+vegetable garden 🥕🥒🍅🥗 from seedlings 🌱
