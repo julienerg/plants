@@ -7,7 +7,7 @@
 - Pothos
 - Echnopsis
 - Peperomia ("Debbie")
-- Echeveria elegans
+- [Echeveria elegans](./echeveria-elegans.md)
 - Aloe vera
 - Aglaonemas ("Planty")
 - Dracaena
