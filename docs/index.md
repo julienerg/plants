@@ -24,7 +24,7 @@
 - Rosemary
 
 ### living room
-- Monstera deliciosa
+- [Monstera deliciosa](./monstera-deliciosa.md)
 - Song of India ("Mr. Song")
 - Pilea peperomidodes
 - String of Pearls

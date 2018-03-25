@@ -1,6 +1,6 @@
 # monstera deliciosa
 
-![plant](../img/monstera-deliciosa/monstera.JPG)
+![plant](./img/monstera-deliciosa/monstera.JPG)
 
 my dream plant 😍
 
@@ -13,10 +13,10 @@ my dream plant 😍
 - mist the leaves to increase humidity
 - fertilize once per month with diluted solution
 
-![plant](../img/monstera-deliciosa/monstera-hand.JPG)
-
 ## keep in mind
 - repot every 2 years
 - easy to propagate
 
-![plant](../img/monstera-deliciosa/monstera-cat.JPG)
+![plant](./img/monstera-deliciosa/monstera-hand.JPG)
+
+![plant](./img/monstera-deliciosa/monstera-cat.JPG)
