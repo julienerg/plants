@@ -1,6 +1,6 @@
 # echeveria elegans
 
-![plant](../img/echeveria-elegans/echeveria-elegans.JPG)
+![plant](./img/echeveria-elegans/echeveria-elegans.JPG)
 
 this one was the beginning of the end
 
