@@ -11,7 +11,7 @@
 - Peperomia ("Debbie")
 - [Echeveria elegans](./echeveria-elegans.md)
 - Aloe vera
-- Aglaonemas ("Planty")
+- Aglaonemas ("Planty McPlantenson")
 - Dracaena
 - Ghost plant
 - Senecio haworthil
